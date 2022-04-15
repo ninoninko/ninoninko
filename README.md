@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @ninoninko or better known by my friends as Yanaki Krastev. 
 I am a twenty-year-old bulgarian, who is a Computer Science and Engineering 
-bachelor student at Delft University of Technology, Kingdom of the Netherlands.
+bachelor student at Sofia Technical University and I have previously studied at
+Delft University of Technology, Kingdom of the Netherlands.
 
 - 👀 I’m interested in C# programming and more specifically - Game development,
 although I have no real experience in the field.
 
-- 🌱 I’m currently learning C# by myself but I have been studying Java, C++,
+- 🌱 I’m currently learning C# by myself but I have studied Java, C, C++,
 SQL, Assembly and other programming languages as a part of my bachelor program.
 
 - 💞️ As I have never had a programming job, I’m looking to collaborate on any
