@@ -6,11 +6,11 @@ Delft University of Technology, Kingdom of the Netherlands.
 - 👀 I’m interested in C# programming and more specifically - Game development,
 although I have no real experience in the field.
 
-- 🌱 I’m currently learning C# by myself but I have studied Java, C, C++,
+- 🌱 I’m currently learning C# but I have studied Java, C, C++,
 SQL, Assembly and other programming languages as a part of my bachelor program.
 
-- 💞️ As I have never had a programming job, I’m looking to collaborate on any
-project which may be of interest to me. Hit me up if you have a suggestion!
+- 💞️ I’m looking to collaborate on anyproject which may 
+be of interest to me. Hit me up if you have a suggestion!
 
 - 📫 I am fairly easy to be reached:
     - Facebook: Yanaki Krastev
