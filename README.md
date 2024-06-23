@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ninoninko or better known by my friends as Yanaki Krastev. 
-I am a twenty-one-year-old bulgarian, who is a Computer Science and Engineering 
+I am a twenty-three-year-old bulgarian, who is a Computer Science and Engineering 
 bachelor student at Sofia Technical University and I have previously studied at
 Delft University of Technology, Kingdom of the Netherlands.
 
